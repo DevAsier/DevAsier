@@ -4,7 +4,7 @@
 
 ## 📖 Sobre Mí
 - 💻 **Programador Junior** apasionado por el desarrollo web y el aprendizaje constante.
-- 🌱 Actualmente aprendiendo: `JavaScript`, `CMS`, `Python`.
+- 🌱 Actualmente aprendiendo: `JavaScript`, `CMS`, `C#`, `Python`.
 - 🎯 Metas: Trabajar como desarrollador, contribuir a proyectos de código abierto y seguir creciendo profesionalmente.
 
 ## 🛠️ Tecnologías y Herramientas
