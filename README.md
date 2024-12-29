@@ -10,7 +10,7 @@
 ## 🛠️ Tecnologías y Herramientas
 - **Lenguajes de Programación**: `HTML`, `CSS`, `JavaScript`, `C#`
 - **Herramientas**: `Git`, `GitHub`, `VS Code`, `NetBeans`
-- **Frameworks**: `React`, `Bootstrap`
+- **Frameworks**: `React`, `Bootstrap` , `Ionic` , `Angular`
 - **CMS**: `WordPress`, `Shopify`
 
 ## 📂 Mis Proyectos
