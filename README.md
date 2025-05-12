@@ -1,7 +1,5 @@
 # 👨‍💻 DevAsier
 
-![Banner del Perfil](https://via.placeholder.com/800x200?text=Bienvenido+a+mi+Perfil+de+GitHub)
-
 ## 📖 Sobre Mí
 - 💻 **Programador Junior** apasionado por el desarrollo web y el aprendizaje constante.
 - 🌱 Actualmente aprendiendo: `JavaScript`, `CMS`, `.NET`, `Python`.
