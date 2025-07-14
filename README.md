@@ -1,7 +1,7 @@
 # 👨‍💻 DevAsier
 
 ## 📖 Sobre Mí
-- 💻 **Programador Junior** apasionado por el desarrollo web y el aprendizaje constante.
+- 💻 **Programador full-stack** apasionado por el desarrollo web y el aprendizaje constante.
 - 🌱 Actualmente aprendiendo: `JavaScript`, `CMS`, `.NET`, `Python`.
 - 🎯 Metas: Trabajar como desarrollador, contribuir a proyectos de código abierto y seguir creciendo profesionalmente.
 
