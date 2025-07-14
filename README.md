@@ -6,10 +6,10 @@
 - 🎯 Metas: Trabajar como desarrollador, contribuir a proyectos de código abierto y seguir creciendo profesionalmente.
 
 ## 🛠️ Tecnologías y Herramientas
-- **Lenguajes de Programación**: `HTML`, `CSS`, `JavaScript`, `C#`
-- **Herramientas**: `Git`, `GitHub`, `VS Code`, `NetBeans`
-- **Frameworks**: `React`, `Bootstrap` , `Ionic` , `Angular`
-- **CMS**: `WordPress`, `Shopify`
+- **Lenguajes de Programación**: `HTML`, `CSS`, `JavaScript`, `C#`,  `PHP`
+- **Herramientas**: `Git`, `GitHub`, `VS Code`, `NetBeans`, 
+- **Frameworks**: `React`, `Bootstrap` , `Ionic` , `Angular`, `Laravel`, `React`
+- **CMS**: `WordPress`, `Shopify` 
 
 ## 📂 Mis Proyectos
 | Proyecto           | Descripción                                     | Enlace                                  |
